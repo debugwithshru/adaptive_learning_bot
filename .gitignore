@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# App-generated temp files
+temp_*/
+assets_cache/
+
+# Misc
+.env
+*.log
